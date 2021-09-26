@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "126367589874",
+    "project_id": "fir-securitywithlistview",
+    "storage_bucket": "fir-securitywithlistview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126367589874:android:ac2767592e975dc0aef76b",
+        "android_client_info": {
+          "package_name": "com.varun.firebasesecuritywithlistview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126367589874-623sg6npnl2gb89jklhfddkbctoots4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.varun.firebasesecuritywithlistview",
+            "certificate_hash": "5c65ced9c4d54e0c836df627c682a592044c1a18"
+          }
+        },
+        {
+          "client_id": "126367589874-ofhhlaa4d6en33hh3d7vtpfkpvdv7n2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNqHWVWKjWniNqwNZyyt_cO_m_C8_JcEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126367589874-ofhhlaa4d6en33hh3d7vtpfkpvdv7n2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

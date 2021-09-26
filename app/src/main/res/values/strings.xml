@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseSecurityWithListView</string>
+    <string name="facebook_app_id">400500141594591</string>
+    <string name="fb_login_protocol_scheme">fb400500141594591</string>
+</resources>
